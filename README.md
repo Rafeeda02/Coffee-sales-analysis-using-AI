@@ -72,15 +72,10 @@ This project helps coffee shop managers and business owners to:
 📍 Based in UAE  
 💼 Aspiring Data Analyst  
 🤖 Focus: AI-Assisted Data Analytics & Dashboard Projects  
-📊 Other Projects: Retail Sales Analysis, Superstore Dashboard, AI Dataset Analysis, Air Pollution Insights  
-
 ---
 
 ## 🏷️ Tags
 `#AIAnalysis` `#DataVisualization` `#Dashboard` `#SalesAnalytics` `#BusinessInsights` `#CoffeeShopData` `#AIinDataAnalytics`
 
 ---
-
-## 💬 GitHub Project Description
-AI-assisted analysis of Coffee Shop Sales data — featuring automated dashboards, insights, and a complete PDF report generated using artificial intelligence tools.
 
